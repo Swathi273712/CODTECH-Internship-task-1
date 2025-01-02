@@ -2,9 +2,9 @@
 
 Name : K.Swathi
 Company : CODTECH IT SOLUTIONS
-ID : CT08DS425 
+ID : CT0806HK
 Domain : Frontend web development 
-Duration : December 5th, 2024 to January 5th, 2024
+Duration : December 12th, 2024 to January 12th, 2024
 
 
 ### **Overview of the Portfolio Website Project**
